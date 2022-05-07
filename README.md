@@ -30,8 +30,11 @@
 Attribute	| Description
 
 ID | This is a unique identifier of the accident record.
+
 Severity | Shows the severity of the accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates a significant impact on traffic (i.e., long delay).
+
 Start_Time | Shows start time of the accident in local time zone.
+
 Start_Lat | Shows latitude in GPS coordinate of the start point.
 Start_Lng | Shows longitude in GPS coordinate of the start point.
 Description | Shows natural language description of the accident.
