@@ -27,9 +27,9 @@
  ## Dictionary
    
       
-Attribute	| Description
-------------------------
-ID | This is a unique identifier of the accident record.
+| Attribute	| Description |
+|-----------|-------------|
+| ID | This is a unique identifier of the accident record. |
 
 Severity | Shows the severity of the accident, a number between 1 and 4, where 1 indicates the least impact on traffic (i.e., short delay as a result of the accident) and 4 indicates a significant impact on traffic (i.e., long delay).
 
