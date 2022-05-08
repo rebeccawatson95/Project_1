@@ -74,3 +74,6 @@
 
 ## Statistical Conclusions
 
+After doing some analysis, there were a few things we tested which were not statisticallly significant. Of those included: total accidents in California for the spring DST change, level 2 severity accidents in California for the spring DST change, level 4 severity accidents in California for the spring DST change, level 4 severity accidents in California for the fall DST change, and total accidents in Arizona for the fall DST change. 
+
+The analysis we did that was significant include: total accidents in California for the fall DST change, level 2 severity accidents in California for the fall DST change,  and total accidents in Arizona for the sping DST change. When looking at Arizona as our control, this shows that California should go down in the spring, but instead stays consistent. All of the analysis together shows that DST change in both the spring and the fall have an impact on the number of car accidents in California. 
